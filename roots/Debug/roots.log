@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\xzalla\desktop\class\numerical methods\programming\programming assignments\roots\roots\source.cpp(150): warning C4129: 'N': unrecognized character escape sequence
+c:\users\xzalla\desktop\class\numerical methods\programming\programming assignments\roots\roots\source.cpp(154): warning C4129: 'H': unrecognized character escape sequence
+c:\users\xzalla\desktop\class\numerical methods\programming\programming assignments\roots\roots\source.cpp(171): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xzalla\desktop\class\numerical methods\programming\programming assignments\roots\roots\source.cpp(175): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\xzalla\desktop\class\numerical methods\programming\programming assignments\roots\roots\source.cpp(181): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\xzalla\desktop\class\numerical methods\programming\programming assignments\roots\roots\source.cpp(185): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\xzalla\desktop\class\numerical methods\programming\programming assignments\roots\roots\source.cpp(189): warning C4715: 'horner': not all control paths return a value
+  roots.vcxproj -> C:\Users\xzalla\Desktop\class\Numerical Methods\Programming\Programming Assignments\roots\Debug\roots.exe
+  roots.vcxproj -> C:\Users\xzalla\Desktop\class\Numerical Methods\Programming\Programming Assignments\roots\Debug\roots.pdb (Full PDB)
